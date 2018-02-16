@@ -13,7 +13,7 @@ from gtts import gTTS
 #kk.loginResult()
 
 cl = Tondy.LINE()
-cl.login(token="e8sk0QIVONRI8yrqyl3b0rAAbH2BkYcnCV4NtcMYx5zwGQdvLrl8g/zcWbkuQcHe5oQqeVx5c8VX9kSJusbmGr42JcupsKYdwyTCFPll3Xw8DDgZ/DSEmIal/M+2Z3HzWAzR8zlRoKpyDWgmVk5/CwdB04t89/1O/w1cDnyilFU=")
+cl.login(token="_dQhIsayp1C3TpQQMhAJFzHJZ1HIwKb9xp_j4UF0")
 cl.loginResult()
 
 cl
