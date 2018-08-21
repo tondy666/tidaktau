@@ -25,4 +25,7 @@ echo "Jeda or Delay // 1 Pesan/second: ";
 $jeda = trim(fgets(STDIN));
 $execute = telkreg($nomor, $jumlah, $jeda);
 print $execute;
+
+echo "Jangan DiJUAL lah cok !1!1!1"
+echo "Tondy_666"
 ?>
